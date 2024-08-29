@@ -1,0 +1,237 @@
+@media screen and (max-width: 770px){
+ 
+    .large{
+        font-size: 30px;
+    }
+.c-height{
+    width: 100px;
+}
+.medium{
+    font-size:19px
+}
+.p{
+    font-size: 12px;
+    width: 541px;
+}
+.btn{
+    font-size: 11px;
+    padding: 5px 6px;
+}
+.b{
+padding: 7px;
+height: 38px;
+width: 38px;
+}
+.tech{
+    width: 22px;
+}
+.video{
+    width: 200px;
+    height: 180px;
+}
+.desc{
+    font-size: 12px;
+    width: 364px;
+}
+.li{
+    width: 363px;
+    font-size: 12px;
+    margin: 0 10px;
+}
+.stack{
+    padding: 3px 6px;
+    margin: 0 8px;
+    font-size: 12px;
+}
+.website{
+    font-size: 13px;
+}
+.font-size{
+    font-size: 21px;
+}
+.text-contact {
+    font-size: 10px;
+    
+}
+.flex-card{
+    padding: 15px 0;
+}
+}
+
+@media screen and (max-width: 615px){
+
+    .large {
+        font-size: 25px;
+    }
+    .medium {
+        font-size: 17px;
+    }
+    .p {
+        font-size: 10px;
+        width: 443px;
+    }
+    .container{
+        padding: 30px 20px;
+    }
+    .btn{
+        font-size: 9px;
+        padding: 5px 5px;
+        border-radius: 5px;
+    }
+    .font-size{
+        font-size: 19px;
+    }
+    .container-tech{
+        padding: 30px 20px;
+    }
+    .flex-center{
+        gap: 27px;
+    }
+    .b {
+        padding: 6px;
+        height: 33px;
+        width: 33px;
+        border-radius: 6px;
+    }
+    .tech{
+        width: 18px;
+    }
+    .video {
+        width: 150px;
+        height: 140px;
+    }
+    h4{
+        font-size: 14px;
+    }
+    .desc {
+        font-size: 10px;
+        width: 296px;
+    }
+    .li {
+        width: 256px;
+        font-size: 9px;
+        margin: 0 12px;
+    }
+    .stack{
+        padding: 2px 5px;
+        margin: 0px 6px;
+        font-size: 9px;
+        border-radius: 3px;
+    }
+    .website{
+        font-size: 11px;
+    }
+    .text-contact {
+        font-size: 9px;
+        
+    }
+}
+
+@media screen and (max-width: 470px){
+    .large {
+        font-size: 21px;
+    }
+    .medium {
+        font-size: 15.5px;
+    }
+    .p {
+        font-size: 8px;
+        width: 345px;
+    }
+    .btn {
+        font-size: 7px;
+        border-radius: 4px;
+    }
+    .font-size {
+        font-size: 17px;
+    }
+    .flex-center {
+        gap: 24px;
+    }
+    .b {
+        padding: 5px;
+        height: 30px;
+        width: 30px;
+        border-radius: 5px;
+    }
+    .tech{
+        width: 16px;
+    }
+    .video {
+        width: 115px;
+        height: 125px;
+    }
+    h4 {
+        font-size: 11px;
+    }
+    .desc {
+        /* font-size: 9px;
+        width: 266px; */
+        font-size: 8px;
+        width: 237px;
+    }
+    .li {
+        /* width: 236px; */
+        width: 217px;
+        font-size: 8px;
+        margin: 0 12px;
+    }
+    .flex-card{
+        gap: 25px;
+    }
+    .stack {
+        padding: 2px 4px;
+        font-size: 7px;
+        border-radius: 2px;
+    }
+    .website {
+        font-size: 9px;
+    }
+    .container {
+        padding: 30px 10px;
+    }
+    .container-tech{
+        padding: 30px 15px;
+    }
+    
+    .flex {
+        
+        gap: 15px;
+        margin: 0 6px;
+    }
+    .text-contact {
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width: 395px){
+    .flex {
+        gap: 12px;
+        margin: 0 7px;
+    }
+    .stack {
+        padding: 2px 3px;
+        font-size: 6px;
+    }
+    .website {
+        font-size: 8px;
+    }
+    .desc {
+        font-size: 7px;
+        width: 207px;
+    }
+    h4 {
+        font-size: 10px;
+    }
+    .li{
+        width: 200px;
+        font-size: 6px;
+    }
+    .flex{
+        margin: 0 9px;
+    }
+    .video {
+        width: 100px;
+        height: 105px;
+    }
+}
