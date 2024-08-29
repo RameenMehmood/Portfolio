@@ -19,7 +19,7 @@ const Tech = () => {
   return (
     <>
        
-       <div className="container-tech c-width">
+       <div className="container-tech c-widthv">
                 <motion.h2
                 whileInView={{y:0,opacity:1}}
                 initial={{y:-100,opacity:0}}

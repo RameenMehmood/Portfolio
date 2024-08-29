@@ -1,14 +1,19 @@
-/* @media screen and (max-width: 900px){
-.c-width{
+@media screen and (max-width: 1000px){
+/* .c-width{
     width: 790px;
-}
 } */
+.relative{
+    width: 170%;
+}
+}
 @media screen and (max-width: 770px){
  
     /* .c-width{
         width: 690px;
     } */
-
+.absolute{
+    mask-image: radial-gradient(ellipse 60% 20% at 50% 0%, #000 70%, transparent 100%);
+}
     .large{
         font-size: 30px;
     }
@@ -140,9 +145,9 @@ width: 38px;
 
 @media screen and (max-width: 470px){
 
-    .c-width{
+    /* .c-width{
         width: 413px;
-    }
+    } */
     .large {
         font-size: 21px;
     }

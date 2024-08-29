@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 const Contact = () => {
   return (
     <>
-      <div className="container-contact c-width ">
+      <div className="container-contact c-widthv ">
         <motion.h2
           whileInView={{ y: 0, opacity: 1 }}
           initial={{ y: -100, opacity: 0 }}

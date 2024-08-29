@@ -13,7 +13,7 @@ const Home = () => {
     return (
         <>
             {/* into  */}
-            <div className="container c-width">
+            <div className="container c-widthv">
 
                 <motion.h2
                     variants={container(0)}
