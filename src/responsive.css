@@ -1,13 +1,13 @@
-@media screen and (max-width: 900px){
+/* @media screen and (max-width: 900px){
 .c-width{
     width: 790px;
 }
-}
+} */
 @media screen and (max-width: 770px){
  
-    .c-width{
+    /* .c-width{
         width: 690px;
-    }
+    } */
 
     .large{
         font-size: 30px;
@@ -68,9 +68,9 @@ width: 38px;
 }
 
 @media screen and (max-width: 615px){
-    .c-width{
+    /* .c-width{
         width: 590px;
-    }
+    } */
     .large {
         font-size: 25px;
     }
@@ -141,7 +141,7 @@ width: 38px;
 @media screen and (max-width: 470px){
 
     .c-width{
-        width: 460px;
+        width: 413px;
     }
     .large {
         font-size: 21px;
