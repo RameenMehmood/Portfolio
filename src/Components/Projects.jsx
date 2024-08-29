@@ -133,7 +133,7 @@ const Projects = () => {
   ];
 
   return (
-    <div className="container">
+    <div className="container c-width">
       <motion.h2 className="font-size text-center"
        whileInView={{y:0,opacity:1}}
        initial={{y:-100,opacity:0}}
@@ -142,7 +142,7 @@ const Projects = () => {
 
      
       </motion.h2>
-      <div className="cards c-height">
+      <div className="cards ">
         {projects.map((project, index) => (
           <Card
             key={index}
