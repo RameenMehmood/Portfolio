@@ -29,7 +29,7 @@ const Card = ({ image, video,title, description, features, techStack, websiteLin
 
         )}
         {video && (
-          <video src={video} className='video' autoPlay loop muted></video>
+          <video src={video} className='video' autoPlay loop muted playsInline></video>
 
         )}
    
@@ -44,7 +44,11 @@ const Card = ({ image, video,title, description, features, techStack, websiteLin
         <ul>
           {features.map((feature, index) => (
             <li className='li' key={index}><strong>{feature.title}:</strong> 
-            <li className='list-style'>{feature.detail}</li></li>
+            <ul>
+
+            <li className='list-style'>{feature.detail}</li>
+            </ul>
+            </li>
           ))}
         </ul>
         <motion.div 

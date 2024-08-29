@@ -3,7 +3,9 @@
     .large{
         font-size: 30px;
     }
-
+.c-height{
+    width: 413px;
+}
 .medium{
     font-size:19px
 }
@@ -158,6 +160,9 @@ width: 38px;
     .video {
         width: 115px;
         height: 125px;
+    }
+    .c-height{
+        width: 413px;
     }
     h4 {
         font-size: 11px;
