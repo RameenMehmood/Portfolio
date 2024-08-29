@@ -146,7 +146,6 @@ const Projects = () => {
         {projects.map((project, index) => (
           <Card
             key={index}
-            image={project.image}
             video={project.video}
             title={project.title}
             description={project.description}

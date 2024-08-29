@@ -24,10 +24,6 @@ const Card = ({ image, video,title, description, features, techStack, websiteLin
       initial={{x:-100,opacity:0}}
       transition={{duration:1 }} 
       >
-        {image && (
-          <img src={image} alt={title}  className='img'/>
-
-        )}
         {video && (
           <video src={video} className='video' autoPlay loop muted playsInline></video>
 
