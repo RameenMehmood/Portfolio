@@ -36,8 +36,8 @@ const Home = () => {
                  initial="hidden"
                  animate="visible"
                 className=" flex-btn m-top ">
-                    {/* add resume pdf in public directory */}
-                    <a href="/resume.pdf" download title='Download pdf' target='_blank'><button className='btn'>Download Resume </button> </a>
+                    
+                    <a href="/Resume.pdf" title='Download pdf' target='_blank'><button className='btn'>Resume</button> </a>
 
                 </motion.div>
             </div>
