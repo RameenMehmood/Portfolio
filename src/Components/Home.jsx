@@ -37,7 +37,7 @@ const Home = () => {
                  animate="visible"
                 className=" flex-btn m-top ">
                     
-                    <a href="/Resume.pdf" title='Download pdf' target='_blank'><button className='btn'>Resume</button> </a>
+                    <a href="/Resume - RAMEEN MAHMOOD.pdf" title='Download pdf' target='_blank'><button className='btn'>Resume</button> </a>
 
                 </motion.div>
             </div>
